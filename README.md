@@ -1,8 +1,4 @@
-
----
-
 ### 🎵 YouTube Downloader (README.md)
-```markdown
 # 🎵 YouTube Video/Audio Downloader (Python + Tkinter + yt-dlp)
 
 A GUI-based tool to download YouTube videos and audio directly to your computer.  
@@ -25,7 +21,9 @@ It uses **yt-dlp** for downloading and supports both **MP4 video** and **MP3 aud
    cd youtube_downloader
 
 2. Install dependencies:
+   ```bash
    pip install -r requirments.txt
 
-3. Run the app:
+4. Run the app:
+   ```bash
    python youtube_downloader.py
