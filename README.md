@@ -17,8 +17,8 @@ It uses **yt-dlp** for downloading and supports both **MP4 video** and **MP3 aud
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/youtube_downloader.git
-   cd youtube_downloader
+   git clone https://github.com/KalkiKS/YouTube_Downloader.git
+   cd YouTube_Downloader
 
 2. Install dependencies:
    ```bash
